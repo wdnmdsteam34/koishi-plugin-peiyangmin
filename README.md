@@ -1,1 +1,1 @@
-额我不知道koishi怎么导入GitHub的东西。并且这里是非正式版。正式版上传到npm上了，现在不确定koishi的插件商店有没有，反正依赖管理-手动导入，输入koishi-plugin-peiyangmin是可以下载的
+这是源码，npm包已经发了，t4的插件市场可以搜到了。
