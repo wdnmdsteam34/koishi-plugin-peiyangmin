@@ -1,0 +1,12 @@
+{
+  "name": "koishi-plugin-peiyangmin",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch"
+  },
+  "dependencies": {
+    "koishi": "^4.15.0"
+  }
+}
